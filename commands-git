@@ -1,4 +1,6 @@
 les commandes :
-add
+glit add .
 commit
-push
+glit push
+et pour cloner :
+glit clone
