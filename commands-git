@@ -4,3 +4,5 @@ commit
 glit push
 et pour cloner :
 glit clone
+et pour pull :
+glit pull
